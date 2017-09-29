@@ -252,6 +252,7 @@ A: Thank you! You can help by codding more features, creating pull requests, or 
 	- Microsoft Bot Framework / Skype
 	- ???
 - **Features:**
+	- Add message queueing
 	- Documentation / Tutorials / Videos
 	- Add a custom in-store message chat app
 	- Save support history
@@ -260,8 +261,7 @@ A: Thank you! You can help by codding more features, creating pull requests, or 
 	- Force a command for a customer
 	- Integrate checkout to Facebook Payment API
 	- Save messages on database before sending to make sure it will be sent eventually
-	- Add compatibility with configurable products
-	- Add compatibility with products with custom options
+	- Add "Add to cart" feature for configurable products and products with custom options
 	- Better approach for Abandoned Carts
 	- Add `CDATA` and `<tooltip>` to configuration descriptions
 
