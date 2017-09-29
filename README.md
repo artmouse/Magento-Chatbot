@@ -35,7 +35,7 @@ A big thanks to [Eleirbag89](https://github.com/Eleirbag89/) who wrote [this](ht
 - List store categories
 - List products from category
 - Search for products
-- Add product to cart
+- Add product to cart (Currently not working with Configurable Products and products with custom options)
 - Clear cart
 - Login/Logout to your account
 - List orders
@@ -50,8 +50,6 @@ A big thanks to [Eleirbag89](https://github.com/Eleirbag89/) who wrote [this](ht
 - Use Telegram to receive and reply messages from Facebook
 - Set custom reply messages for predetermined text or regex
 - Custom fallback messages
-
-**Currently not working with Configurable Products and products with custom options**
 
 ## Languages
 - English (US)
