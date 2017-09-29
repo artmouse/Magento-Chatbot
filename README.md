@@ -142,6 +142,7 @@ Conversation
 ## Release Notes
 - **v0.0.17:**
 	- Add Abandoned Cart messages
+	- Enable all types of products to be listed
 - **v0.0.16:**
 	- Code improvements
 	- Fix flood of messages when disabling bot for human respond
